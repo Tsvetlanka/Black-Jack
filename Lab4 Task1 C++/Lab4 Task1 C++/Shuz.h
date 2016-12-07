@@ -6,6 +6,9 @@ private:
 	int** arrayCards2;
 	int** arrayCards3;
 	int** arrayCards4;
+	int x;
+	int y;
+	int g;
 public:
 	Shuz(void);
 	~Shuz(void);
