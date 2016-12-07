@@ -1,0 +1,17 @@
+﻿Построение начато 07.12.2016 12:57:43.
+     1>Проект "D:\Programs\Git\gitR_BJ\Lab4 Task1 C++\Lab4 Task1 C++\Lab4 Task1 C++.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\Lab4 Task1 C++.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Dealer.cpp "Сards.cpp"
+         Сards.cpp
+         Dealer.cpp
+     1>d:\programs\git\gitr_bj\lab4 task1 c++\lab4 task1 c++\dealer.cpp(6): error C2679: бинарный "=": не найден оператор, принимающий правый операнд типа "int" (или приемлемое преобразование отсутствует)
+                 d:\programs\git\gitr_bj\lab4 task1 c++\lab4 task1 c++\player.h(11): может быть "Player &Player::operator =(const Player &)"
+                 при попытке сопоставить список аргументов "(Player, int)"
+         Создание кода...
+     1>Построение проекта "D:\Programs\Git\gitR_BJ\Lab4 Task1 C++\Lab4 Task1 C++\Lab4 Task1 C++.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:00.94
