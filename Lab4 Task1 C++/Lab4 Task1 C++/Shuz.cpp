@@ -6,7 +6,7 @@ Shuz::Shuz(void)
 	arrayCards1 = new int* [4];
 	arrayCards2 = new int* [4];
 	arrayCards3 = new int* [4];
-	arrayCards4 = new int* [4];
+	arrayCards4 = new int* [4];///654664465
 }
 
 
