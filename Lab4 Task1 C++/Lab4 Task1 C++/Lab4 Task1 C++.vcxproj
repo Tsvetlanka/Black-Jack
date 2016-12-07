@@ -78,14 +78,14 @@
     <ClInclude Include="Game.h" />
     <ClInclude Include="hand.h" />
     <ClInclude Include="Player.h" />
-    <ClInclude Include="Сards.h" />
+    <ClInclude Include="Shuz.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Dealer.cpp" />
     <ClCompile Include="Game.cpp" />
     <ClCompile Include="hand.cpp" />
     <ClCompile Include="Player.cpp" />
-    <ClCompile Include="Сards.cpp" />
+    <ClCompile Include="Shuz.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
